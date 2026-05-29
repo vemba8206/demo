@@ -1,3 +1,4 @@
 # demo
-test
-vemba_author
+This is demo repo
+Trying out things
+author-vemba
